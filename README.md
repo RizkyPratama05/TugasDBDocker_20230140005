@@ -2,3 +2,5 @@ Halaman web teman : <img width="1920" height="1080" alt="Screenshot 2026-04-21 1
 Halaman web saya : <img width="1920" height="1080" alt="Screenshot 2026-04-21 152105" src="https://github.com/user-attachments/assets/2c7fc858-1c8c-42dd-9768-96e27173a253" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-21 152113" src="https://github.com/user-attachments/assets/4935bc91-d926-40f3-9230-1802f6e3424f" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-21 152119" src="https://github.com/user-attachments/assets/50437dff-a04d-458b-998e-71537213f9da" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-21 154254" src="https://github.com/user-attachments/assets/fd6d151b-9ca3-468d-a7a7-d1502195fbeb" />
+<img width="1920" height="1080" alt="Screenshot 2026-04-21 154259" src="https://github.com/user-attachments/assets/102436b5-6994-4246-bae0-485e162fc5e4" />
